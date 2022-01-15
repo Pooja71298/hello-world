@@ -1,1 +1,3 @@
 # hello-world
+Hello Floks, Myself Pooja Sanghadia.
+ I did my Bachelor's in Computer Science and Engeering with Mobile Application. As i worked with several softaware to work and deveople mobile application. Mostly i worked with SwitchCode and i love cresting IOS application. So far wanted to learn how the desgin of website is been done. What type of things to be used and software being used to create a web site. How Fornt end of website is been is been developed and how the backend of the website works too. I'm Super excited to learn the graphics of the webdesign, how things turn into magic with one click. Looking Forward to learn new exciting things with my best of my knowledge. 
